@@ -1,4 +1,19 @@
 
 header {
-  size: 500px;
+ background: cover;
+}
+
+.background {
+    width: 100%;
+    height: 100%;
+}
+
+.name {
+    margin-top: 5%;
+    padding-top: 5%;
+}
+
+.leaf {
+    height: 150px;
+    width: auto;
 }
