@@ -1,0 +1,15 @@
+.paintings {
+    height: 50px;
+}
+
+.one,.two,.three,.four,.five,.six{
+    width: 380px;
+    margin: 40px;
+}
+
+
+
+.name {
+    margin-top: 5%;
+    padding-top: 5%;
+}
