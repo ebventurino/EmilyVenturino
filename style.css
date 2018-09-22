@@ -88,3 +88,25 @@ header {
          max-width: 300px;
     }
 }
+
+.backgrounds {
+    width: 100%;
+
+}
+
+.logoname {
+    padding-left: 400px;
+    margin-top: 40px;
+}
+
+@media screen and (max-width: 500px) {
+    .backgrounds {
+      width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 500px) {
+    .name {
+      height: 100%;
+    }
+  }
