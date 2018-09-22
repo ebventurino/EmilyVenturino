@@ -114,10 +114,7 @@ header {
     height: 50px;
 }
 
-.one,.two,.three,.four,.five,.six{
-    width: 380px;
-    margin: 40px;
-}
+
 
 
 
@@ -125,3 +122,8 @@ header {
     margin-top: 5%;
     padding-top: 5%;
 }
+
+.one,.two,.three,.four,.five,.six{
+    width: 400px;
+    margin: 40px;
+  }
